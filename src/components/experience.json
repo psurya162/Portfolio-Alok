@@ -1,0 +1,64 @@
+{
+    "experience": [
+      {
+        "role": "Software Developer",
+        "company": "Delta IT Networks Pvt Ltd",
+        "start_date": "Feb 2024",
+        "end_date": "Present",
+        "responsibilities": [
+          "Executed leadership role in website design projects, working closely with the design team to conceptualize and develop functional web applications with responsive layouts.",
+          "Proficient in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Redux Toolkit, Node JS, MongoDB, MySQL, Git, GitHub, and Postman.",
+          "Solid understanding of Web Development DSA, responsive design, and REST API design and implementation.",
+          "Expertise in using the Express framework for building server-side applications, managing VPS environments, and executing Ubuntu CLI commands."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "year": "2023",
+        "degree": "Certification",
+        "program": "9-Month Full Stack Program",
+        "institute": "College Dekho",
+        "percentage": "N/A"
+      },
+      {
+        "year": "2019-2022",
+        "degree": "Bachelors in Computer Applications",
+        "institute": "Deen Dayal Upadhyaya Gorakhpur University",
+        "percentage": "62%"
+      },
+      {
+        "year": "2017-2019",
+        "degree": "12th Grade (CBSE)",
+        "institute": "Army Public School Kunraghat Gorakhpur",
+        "percentage": "65%"
+      },
+      {
+        "year": "2016-2017",
+        "degree": "10th Grade (CBSE)",
+        "institute": "Army Public School New Cantt Allahabad",
+        "percentage": "71.25%"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Learning Management System (LMS)",
+        "url": "https://lms-delta-sooty.vercel.app/",
+        "description": "Developed full-stack web applications using React, Node.js, Express, and SQL. Implemented secure authentication with bcrypt and managed CORS policies using React features like useContext, React Router Dom, useState, and useEffect.",
+        "technologies": ["React", "Node.js", "Express", "SQL", "bcrypt", "CORS"]
+      },
+      {
+        "name": "React Blog",
+        "url": "https://blog-project-82t80tkm4-alok-kumars-projects-72f531e7.vercel.app/",
+        "description": "Created the React Blog App using HTML, CSS, JavaScript, and React JS, showcasing advanced features like Context API, useContext, useNavigate, and useParams.",
+        "technologies": ["React", "HTML", "CSS", "JavaScript", "Context API"]
+      },
+      {
+        "name": "Reminder Clock App",
+        "url": "https://psurya162.github.io/reminderclock/",
+        "description": "Developed an alarm-setting application using HTML, CSS, and JavaScript, enabling users to customize alarms for specific needs.",
+        "technologies": ["HTML", "CSS", "JavaScript"]
+      }
+    ]
+  }
+  
